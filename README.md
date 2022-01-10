@@ -1,6 +1,6 @@
 #Brixton--Blog
 
->Brixton is a clean and minimal blog Template for perfect for writers who need to create personal blog site with simple creative features and effects to make readers feel the pleasure of reading blog posts and articles, Writing personal blog template mixes between modern, classic and minimal styles and will help you create a simple and clean blog, if you are a blogger, then it’s a perfect choice for you.
+>Creating Webpack for multiple page.Using some package and plugion to setup webpack basic configuration for begginer
 
 #Pages<br>
 
